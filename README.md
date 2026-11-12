@@ -22,6 +22,6 @@ This modified version is published under the terms of the MIT License, with imme
 
 ## ⚙️ Requirements
 * Minecraft 1.20.1
-* Minecraft Forge [Укажите версию, например 47.1.0+]
+* Minecraft Forge 47.1.0+
 * GeckoLib
 * Curios API
